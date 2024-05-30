@@ -1,5 +1,7 @@
 data/test.csv
 data/train.csv
+catboost_info
+sample_chae.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
